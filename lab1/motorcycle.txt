@@ -1,0 +1,1 @@
+brand=Yamaha,carClass=A,weight=200.0,driverFullName=Шевченко Валодя,driverYearOfBirth=1977,driverLicenseYear=25,cofForFuel=0.02,seats=2,
